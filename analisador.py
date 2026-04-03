@@ -1,5 +1,5 @@
 # Onde o log que você acabou de gerar está guardado
-caminho_log = r"C:\Users\David\Desktop\access.log"
+caminho_log = "access.log"
 
 # Dicionários para guardar as contagens
 contagem_status = {}
